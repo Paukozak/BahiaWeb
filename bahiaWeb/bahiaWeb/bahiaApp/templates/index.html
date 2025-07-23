@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bahía Comunicación Estratégica</title>
+    <meta name="description" content="Empresa de comunicación y marketing">
+    <meta name="keywords" content="comunicacion, comunicación esratégica, marketing, redes sociales, community management, prensa">
+    <link rel="stylesheet" type="text/css" href="../static/css/main.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="../static/css/querys.css" media="screen and (min-width: 250px)">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css" />
+    <script src="../static/js/scrollreveal.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap" rel="stylesheet">
+    <link rel="icon" href="../static/imagenes/ancla.png">
+    <script src="https://kit.fontawesome.com/ff838b2754.js" crossorigin="anonymous"></script>
+</head>
+<body>
+
+
+<!--------------------HEADER-------------------->
+
+
+    <header>
+        <nav>
+            <div class="logo-container">
+                <a href="{%url 'inicio'%}"><img src="../static/imagenes/Isologotipo-Horizontal.png" class="logo"></a>
+            </div>
+            <input type="checkbox" id="check">
+            <label for="check" class="bar-btn">
+                <i class="fas fa-bars"></i>
+            </label>
+            <ul class="nav-menu">
+                <li class="activeli"><a class="active" href="{%url 'inicio'%}">inicio</a></li>
+                <li><a href="{%url 'about'%}">about</a></li>
+                <li><a href="{%url 'servicios'%}">servicios</a></li>
+                <li><a href="{%url 'contactanos'%}">contactanos</a></li>
+            </ul>
+        </nav>
+
+
+        
+<!-- --------------------BANNER SLIDER-------------------- -->
+
+        <div class="container-imginicio">
+            <img src="../static/imagenes/fotobanner2.png" alt="">
+        </div>
+        <div class="ola1-container"></div>
+<!-- -------------------- MAIN -------------------- -->
+
+        <div class="fondo-inicio1">
+            <div class="img-inicio-chicas">
+                <img src="{{model.imagen.url}}" height="150"/>
+            </div>
+            <div class="texto-inicio">
+                <h2>{{model.titulo}}</h2>
+                <p>{{model.contenido | safe}}</p>
+            </div>
+            <div class="ola2-container"></div>
+        </div>
+
+<!-- -------------------- CARRUSEL TESTIMONIOS -------------------- -->
+
+        <div class="arena">
+            <h3>CLIENTES</h3>
+            <div class="subrayado"></div>
+            <p class="descrip-clientes">{{model.clientes_descripcion}}</p>
+            <div class="testimonios-megacontainer">
+                <div class="swiper-button-next"></div>
+                <div class="swiper-button-prev"></div>
+                <div class="testimonios-container">
+                    <div class="swiper mySwiper">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide"><span>{{model.testimonio1|safe}}</span></div>
+                            <div class="swiper-slide"><span>{{model.testimonio2|safe}}</span></div>
+                            <div class="swiper-slide"><span>{{model.testimonio3|safe}}</span></div>
+                        </div>
+                    </div> 
+                </div>
+            </div>
+
+            <div class="dibujito estrella"><img src="../static/imagenes/dibujitos_inicio/estrella.png"></div>
+            <div class="dibujito mapas"><img src="../static/imagenes/dibujitos_inicio/mapas.png"></div>
+
+        </div>
+
+    <!--------------------FOOTER-------------------->
+
+        <footer>
+            <div class="footer">
+                    <div class="redes">
+                        <h5>Seguínos en nuestras <br> redes sociales:</h5>
+                        <div class="red-social">
+                            <a href="https://www.facebook.com/holabahia.ce/" target="_blank" class="fa fa-facebook"></a>
+                            <a href="https://www.instagram.com/bahia.ce/?hl=es-la" target="_blank" class="fa fa-instagram"></a>
+                            <a href="https://ar.linkedin.com/company/bah%C3%ADa-ce?trk=public_profile_topcard-current-company" target="_blank" class="fa fa-linkedin"></a>
+                        </div>
+                    </div>
+                    <div class="pagina">
+                    <p>Ingresá para saber más acerca de las creadoras de esta web:</p>
+                    <a href="#">Click aquí</a>
+                    </div>
+                    <div class="menu">
+                        <li><a class="menu-footer" href="{%url 'inicio'%}"> inicio<</a></li>
+                        <li><a class="menu-footer" href="{%url 'about'%}"> about<</a></li>
+                        <li><a class="menu-footer" href="{%url 'servicios'%}"> servicios<</a></li>
+                        <li><a class="menu-footer" href="{%url 'contactanos'%}"> contactanos<</a></li>
+                    </div>
+            </div>
+            <div class="fondo">
+                <a href="{%url 'inicio'%}"><img src="../static/imagenes/Isologotipo-Horizontal-Blanco.png"></a>
+                <span>2022 Bahía Comunicación Estratégica. <br class="brno">Todos los derechos reservados.
+                </span>
+            </div>
+    
+        </footer>
+    </header>
+
+    <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
+    <script src="../static/js/index.js"></script>
+</body>
+</html>

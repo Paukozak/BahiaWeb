@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bahía Comunicación Estratégica</title>
+    <meta name="description" content="Empresa de comunicación y marketing">
+    <meta name="keywords" content="comunicacion, comunicación esratégica, marketing, redes sociales, community management, prensa">
+    <link rel="stylesheet" type="text/css" href="../static/css/main.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="../static/css/querys.css" media="screen and (min-width: 250px)">
+    <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap" rel="stylesheet">
+    <link rel="icon" href="../static/imagenes/ancla2.png">
+    <script src="https://kit.fontawesome.com/ff838b2754.js" crossorigin="anonymous"></script>
+    <script src="../static/js/scrollreveal.js"></script>
+</head>
+<body>
+
+
+
+
+
+    <header>
+
+        <!--------------------HEADER-------------------->
+
+        <nav>
+            <div class="logo-container">
+                <a href="{%url 'inicio'%}"><img src="../static/imagenes/Isologotipo-Horizontal.png" class="logo"></a>
+            </div>
+            <input type="checkbox" id="check">
+            <label for="check" class="bar-btn">
+                <i class="fas fa-bars"></i>
+            </label>
+            <ul class="nav-menu">
+                <div class="vector-container">
+                    <img src="../static/imagenes/Vector.svg" class="vector">
+                </div>
+                <li><a href="{%url 'inicio'%}">inicio</a></li>
+                <li class="activeli" ><a class="active" href="{%url 'about'%}">about</a></li>
+                <li><a href="{%url 'servicios'%}">servicios</a></li>
+                <li><a href="{%url 'contactanos'%}">contactanos</a></li>
+            </ul>
+        </nav>
+        <div class="main-header_about">
+            <h1>ABOUT&nbsp;</h1><span>us</span>
+        </div>
+
+
+        <!--------------------MAIN1-------------------->
+
+        <div class="arena-about">
+            <img src="{{model.imagen_contenido.url}}" class="img_chicas-about">
+            <div class="texto-about_nosotras">
+                <h2>{{model.titulo}}</h2>
+                <p>{{model.contenido}}
+                </p>
+            </div>
+            
+        </div>
+
+        <div class="mar-about">
+            <div class="info-tofi">
+                <img src="{{model.imagen_tofi.url}}">
+                <div class="texto1-about texto-about"><p>{{model.tofi_1}}</p></div>
+                <div class="texto2-about texto-about"><p>{{model.tofi_2}}</p></div>
+                <div class="texto3-about texto-about"><p>{{model.tofi_3}}</p></div>
+            </div>
+            <div class="info-barbi">
+                <img src="{{model.imagen_barbi.url}}">
+                <div class="texto4-about texto-about"><p>{{model.barbi_1}}</p></div>
+                <div class="texto5-about texto-about"><p>{{model.barbi_2}}</p></div>
+                <div class="texto6-about texto-about"><p>{{model.barbi_3}}</p></div>
+            </div>
+            <div class="ola-about"></div>
+        </div>
+
+
+    <!--------------------FOOTER-------------------->
+
+    <footer>
+        <div class="footer">
+                <div class="redes">
+                    <h5>Seguínos en nuestras <br> redes sociales:</h5>
+                    <div class="red-social">
+                        <a href="https://www.facebook.com/holabahia.ce/" target="_blank"  class="fa fa-facebook"></a>
+                        <a href="https://www.instagram.com/bahia.ce/?hl=es-la" target="_blank" class="fa fa-instagram"></a>
+                        <a href="https://ar.linkedin.com/company/bah%C3%ADa-ce?trk=public_profile_topcard-current-company" target="_blank" class="fa fa-linkedin"></a>
+                    </div>
+                </div>
+                <div class="pagina">
+                    <p>Ingresá para saber más acerca de las creadoras de esta web:</p>
+                    <a href="#">Click aquí</a>
+                </div>
+                <div class="menu">
+                    <li><a class="menu-footer" href="{%url 'inicio'%}"> inicio<</a></li>
+                    <li><a class="menu-footer" href="about.html"> about<</a></li>
+                    <li><a class="menu-footer" href="{%url 'servicios'%}"> servicios<</a></li>
+                    <li><a class="menu-footer" href="{%url 'contactanos'%}"> contactanos<</a></li>
+                </div>
+        </div>
+        <div class="fondo">
+            <a href="{%url 'inicio'%}"><img src="../static/imagenes/Isologotipo-Horizontal-Blanco.png"></a>
+            <span>2022 Bahía Comunicación Estratégica. <br class="brno">Todos los derechos reservados.
+            </span>
+        </div>
+
+    </footer>        
+
+
+
+    </header>
+
+
+
+</body>
+<script src="../static/js/index.js"></script>
+</html>

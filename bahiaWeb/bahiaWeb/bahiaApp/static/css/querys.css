@@ -1,0 +1,2387 @@
+
+/* ----------------------CELU CHIQUITO-------------------- */
+
+@media (min-width: 250px) and (max-width: 316px){
+
+    /* ----------------------INICIO-------------------- */
+
+    .fondo-inicio1 img {
+        width: 20rem;
+        height: 16.7rem;
+        margin-top: 3rem;
+    }
+
+    .fondo-inicio1 {
+        height: 65rem;
+    }
+
+    .texto-inicio h2 {
+        font-size: 2rem;
+        font-weight: 600;
+    }
+
+    .texto-inicio p {
+        font-size: 1rem;
+    }
+
+    .ola1-container {
+        top: 14.7rem;
+    }
+
+    .ola2-container {
+        margin-top: 73rem;
+    }
+    .arena {
+        height: 55rem;
+    }
+
+    .arena h3 {
+        font-size: 4rem;
+    }
+    
+    .descrip-clientes {
+        font-size: 1rem;
+    }
+
+    .subrayado {
+        margin-bottom: 3rem;
+        width: 18rem;
+    }
+
+    .swiper-slide span {
+        font-size: 0.8rem;
+    }
+
+
+    /* ----------------------ABOUT-------------------- */
+
+    .arena-about{
+        height: 82rem;
+    }
+
+    .ola-about {
+        margin-top: 89rem;
+    }
+
+
+    .texto-about_nosotras h2 {
+        font-size: 3.7rem;
+    }
+
+    .texto-about_nosotras p{
+        font-size: 1.4rem;
+    }
+
+    .arena-about img {
+        margin-top: 4rem;
+        width: 20rem;
+        height: 20rem;
+    }
+
+    .info-tofi img {
+        top: 4rem;
+        right: 6rem;
+    }
+
+    .info-barbi img {
+        top: 4rem;
+    }
+    
+    .texto-about {
+        font-size: 1rem;
+    }
+
+    .texto1-about {
+        left: 6.5rem;
+        bottom: 20.7rem;
+        width: 18rem;
+        height: 7rem;
+    }
+    
+    .texto2-about {
+        width: 16rem;
+        height: 8.5rem;
+        left: 10rem;
+        top: 8.9rem;
+    }
+    
+    .texto3-about {
+        height: 7rem;
+        width: 16.5rem;
+        left: 9rem;
+        top: 18rem;
+    }
+
+    .texto4-about {
+        left: calc(100% - 24.9rem);
+        width: 18.4rem;
+        height: 8rem;
+        bottom: 23rem;
+    }
+
+    .texto5-about {
+        left: calc(100% - 26.5rem);
+        width: 17.4rem;
+        height: 9.5rem;
+        top: 7.7rem;
+    }
+
+    .texto6-about {
+        left: calc(100% - 25.7rem);
+        height: 9rem;
+        width: 16.5rem;
+        top: 18rem;
+    }
+
+    .mar-about {
+        height: 60rem;
+    }
+
+    /* ----------------------SERVICIOS-------------------- */
+
+    .main-header_servicios h1{
+        font-size: 2.5rem;
+    }
+
+    .main-header_servicios span{
+        font-size: 3rem;
+    }
+
+    .fondo-servicios {
+        height: 100rem;
+    }
+
+    .button-container_contactanos button{
+        width: 20rem;
+        font-size: 2.3rem;
+    }
+
+    .card-image .card-img {
+        height: 8rem;
+    }
+
+    .card-image .card-img1 {
+        height: 7rem;
+    }
+
+    .modal-textos h3 {
+        font-size: 2.7rem;
+    }
+
+    .modal-textos p {
+        font-size: 1.1rem;
+    }
+
+    .modal, .modal2, .modal3, .modal4, .modal5, .modal6, .modal7 { 
+        height: 50%;
+        width: 60%;
+    }
+        
+    .close, .close2, .close3, .close4, .close5, .close6, .close7 {
+        width: 1.5rem;
+        height: 1.5rem;
+        font-size: 1rem;
+        line-height: 1.6rem;
+    }
+
+    .slide-container {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+
+    .content-modal{
+        width: 80%;
+        height: 90%;
+    }
+
+    .button-container_reservar button{
+        font-size: 1.5rem;
+        width: 15rem;
+        height: 4rem;
+    }
+
+    /* ----------------------CONTACTO-------------------- */
+
+    .formulario {
+       height: 96.2rem;
+    }
+
+
+    /* ----------------------FOOTER-------------------- */
+
+    .fondo {
+       height: 15rem;
+       flex-direction: column;
+       align-items: center;
+       text-align: center;
+       justify-content: center;
+    }
+
+    .fondo img {
+        margin: 0;
+        margin-bottom: 2rem;
+        margin-right: 1rem;
+    }
+    
+    .fondo span {
+        margin: 0;
+    }
+
+    .texto-form {
+        font-size: 2.5rem;
+    }
+
+    ::placeholder { 
+        font-size: 1.2rem;
+    }
+
+
+}
+
+/* ----------------------CELU-------------------- */
+
+
+@media (min-width: 317px) and (max-width: 372px){
+
+    /* ----------------------INICIO-------------------- */
+
+    .ola-celu-inicio {
+        top: 18rem;
+    }
+
+    .ola-container {
+        top: 73%;
+    }
+
+    .ola2-container{
+        margin-top: 72rem;
+    }
+
+    .fondo-inicio1{
+        height: 62rem;
+    }
+
+    .fondo-inicio1 img {
+        width: 27rem;
+        height: 22.4rem;
+        margin-top: 4rem;
+    }
+    
+    .texto-inicio p {
+        font-size: 1rem;
+    }
+    
+    .texto-inicio h2 {
+        font-size: 2.6rem;
+    }
+
+    .arena {
+        height: 55rem;
+    }
+    
+    .descrip-clientes {
+        font-size: 1.2rem;
+        margin-top: 3rem;
+    }
+
+    /* ----------------------ABOUT US-------------------- */
+
+    .arena-about{
+        height: 72rem;
+    }
+
+    .ola-about {
+        margin-top: 79rem;
+    }
+
+
+    .arena-about img {
+        margin-top: 0;
+        width: 25rem;
+        height: 25rem;
+    }
+
+    .texto-about_nosotras h2 {
+        font-size: 3.7rem;
+    }
+
+    .texto-about_nosotras p{
+        font-size: 1.4rem;
+    }
+
+    .info-barbi img {
+        top: 3.5rem;
+    }
+
+    .info-tofi img {
+        top: 4rem;
+    }
+
+    .texto-about {
+        font-size: 1rem;
+    }
+
+    .texto-about {
+        font-size: 1rem;
+    }
+
+    .texto1-about {
+        left: 10.5rem;
+        bottom: 20.7rem;
+        width: 18rem;
+        height: 8rem;
+    }
+    
+    .texto2-about {
+        width: 17rem;
+        height: 8rem;
+        left: 13rem;
+        top: 8.9rem;
+    }
+    
+    .texto3-about {
+        height: 8rem;
+        width: 17.5rem;
+        left: 12rem;
+        top: 17.5rem;
+    }
+
+    .texto4-about {
+        left: calc(100% - 24.9rem);
+        width: 18.4rem;
+        height: 8rem;
+        bottom: 23rem;
+    }
+
+    .texto5-about {
+        left: calc(100% - 31rem);
+        width: 21rem;
+        height: 9.5rem;
+        top: 7.7rem;
+    }
+
+    .texto6-about {
+        left: calc(100% - 28.9rem);
+        height: 8rem;
+        width: 19.5rem;
+        top: 17.9rem;
+    }
+    
+    .mar-about {
+        height: 60rem;
+    }
+
+
+
+
+    /* ----------------------CONTACTO-------------------- */
+
+    .formulario {
+        height: 90rem;
+     }
+
+    .texto-form {
+        font-size: 2.5rem;
+    }
+/* ----------------------SERVICIOS-------------------- */
+
+    .card-image .card-img {
+        height: 9rem;
+    }
+
+    .card-image .card-img1 {
+        height: 8rem;
+    }
+
+    .main-header_servicios h1{
+        font-size: 3rem;
+    }
+    
+    .main-header_servicios span{
+        font-size: 3.6rem;
+    }
+
+    .fondo-servicios {
+        height: 95rem;
+    }
+    
+    .close, .close2, .close3, .close4, .close5, .close6, .close7 {
+        width: 1.5rem;
+        height: 1.5rem;
+        font-size: 1rem;
+        line-height: 1.4rem;
+    }
+
+    .modal, .modal2, .modal3, .modal4, .modal5, .modal6, .modal7 { 
+        height: 50%;
+        width: 60%;
+    }
+
+    .modal-textos h3 {
+        font-size: 2.7rem;
+    }
+
+    .modal-textos p {
+        font-size: 1.1rem;
+    }
+
+    .slide-container {
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+
+    .button-container_contactanos button{
+        width: 25rem;
+        font-size: 2.5rem;
+    }
+
+    .content-modal{
+        width: 80%;
+    }
+
+    .button-container_reservar button{
+        font-size: 1.5rem;
+        width: 15rem;
+        height: 4rem;
+    }
+
+    /* ----------------------FOOTER-------------------- */
+
+    .fondo {
+        height: 15rem;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+    }
+ 
+     .fondo img {
+         margin: 0;
+         margin-bottom: 2rem;
+         margin-right: 1rem;
+    }
+     
+     .fondo span {
+         margin: 0;
+    }
+
+    ::placeholder { 
+        font-size: 1.2rem;
+    } 
+
+}
+
+/* ----------------------CELU 2-------------------- */
+
+
+@media (min-width: 373px) and (max-width: 511px){
+
+/* ----------------------INICIO-------------------- */
+
+    .container-imginicio {
+        height: 15rem;
+    }
+
+    .ola2-container  {
+        margin-top: 77rem;
+    }
+
+    .fondo-inicio1{
+        height: 65rem;
+    }
+
+    .fondo-inicio1 img {
+        width: 27rem;
+        height: 22.4rem;
+        margin-top: 5rem;
+    }
+
+    .arena {
+        height: 55rem;
+    }
+    
+    .descrip-clientes {
+        font-size: 1.2rem;
+    }
+    
+    .ola-celu-inicio {
+        top: 21rem;
+    }
+
+    .ola1-container {
+        height: 7rem;
+        top: 20rem;
+    }
+
+    .swiper-slide span {
+        font-size: 1.2rem;
+    }
+
+ /* ----------------------ABOUT US-------------------- */
+
+
+    .info-tofi img {
+        top: 4rem;
+        right: 1.8rem;
+    }
+
+    .info-barbi img {
+        right: -2rem;
+    }
+
+    .texto-about {
+        font-size: 1rem;
+    }
+
+    .texto1-about {
+        left: 11.5rem;
+        bottom: 19.7rem;
+        width: 21rem;
+        height: 8rem;
+    }
+    
+    .texto2-about {
+        width: 21rem;
+        height: 7rem;
+        left: 14rem;
+        top: 9.9rem;
+    }
+    
+    .texto3-about {
+        height: 7rem;
+        width: 19.5rem;
+        left: 13.5rem;
+        top: 17.6rem;
+    }
+
+    .texto4-about {
+        left: calc(100% - 31.9rem);
+        width: 20rem;
+        height: 7rem;
+        bottom: 23rem;
+    }
+
+    .texto5-about {
+        left: calc(100% - 36.5rem);
+        width: 23rem;
+        height: 8rem;
+        top: 7.7rem;
+    }
+
+    .texto6-about {
+        left: calc(100% - 33.9rem);
+        height: 8rem;
+        width: 20.5rem;
+        top: 16.4rem;
+    }
+    .mar-about {
+        height: 60rem;
+    }
+
+    .arena-about{
+        height: 75rem;
+    }
+
+    .ola-about {
+        margin-top: 82rem;
+    }
+
+    /* ----------------------SERVICIOS-------------------- */
+
+
+    .texto-servicios {
+        font-size: 1.2rem;
+    }
+
+    .close, .close2, .close3, .close4, .close5, .close6, .close7 {
+        width: 2rem;
+        height: 2rem;
+        font-size: 1.3rem;
+        line-height: 2rem;
+    }
+
+    .modal, .modal2, .modal3, .modal4, .modal5, .modal6, .modal7 { 
+        height: 60%;
+        width: 70%;
+    }
+
+    .modal-textos h3 {
+        font-size: 3rem;
+    }
+
+    .modal-textos p {
+        font-size: 1.1rem;
+    }
+
+
+    .slide-container {
+        padding-left: 4rem;
+        padding-right: 4rem;
+    }
+
+    .content-modal{
+        width: 80%;
+    }
+
+    .button-container_reservar button{
+        font-size: 1.5rem;
+        width: 15rem;
+        height: 4rem;
+    }
+
+    .card-image .card-img1 {
+        height: 9rem;
+    }
+
+     /* ----------------------CONTACTO-------------------- */
+
+    .formulario {
+        height: 85rem;
+     }
+
+     .fondo {
+         height: 15rem;
+         flex-direction: column;
+         align-items: center;
+         text-align: center;
+         justify-content: center;
+     }
+
+     .fondo img  {
+         margin-left: 0;
+         margin-top: 0rem;
+         margin-right: 1rem;
+     }
+
+     .fondo span {
+         margin-top: 0.7rem;
+     }
+
+     ::placeholder { 
+        font-size: 1.5rem;
+    }
+}
+
+/* ----------------------TABLET-------------------- */
+
+@media (min-width: 512px) and (max-width: 623px){
+
+    /* ----------------------INICIO-------------------- */
+
+    .container-imginicio {
+        height: 20rem;
+    }
+
+    .ola2-container {
+        background-image: url(../imagenes/olainicio-pc.png);
+    }
+
+    .fondo-inicio1 img {
+        margin-top: 5rem;
+    }
+
+    .arena {
+        height: 55rem;
+    }
+
+    .ola1-container {
+        top: 25rem;
+        height: 6rem;
+    }
+
+    .descrip-clientes  {
+        font-size: 1.8rem;
+    }
+
+    .swiper-slide span {
+        font-size: 1.5rem;
+    }
+
+    /* ----------------------ABOUT-------------------- */
+    
+    .mar-about {
+        height: 70rem;
+    }
+
+    .arena-about{
+        height: 64rem;
+    }
+
+    .ola-about {
+        margin-top: 70rem;
+    }
+
+    .info-tofi img {
+        top: 3rem;
+        right: 0;
+        margin-left: 0;
+        height: 25rem;
+        width: 25rem;
+    }
+    
+
+    .texto1-about {
+        height: 8.5rem;
+        bottom: 0rem;
+        right: 15rem;
+        top: 1rem;
+        width: 22rem;
+        left: 18rem;
+    }
+
+    .texto2-about {
+        height: 7.5rem;
+        top: 10.3rem;
+        width: 26.5rem;
+        left: 21rem;
+    }
+
+    .texto3-about {
+        height: 7.5rem;
+        top: 18.8rem;
+        width: 23rem;
+        left: 20rem;
+    }
+
+    .info-barbi img {
+        top: 3rem;
+        right: 0;
+        margin-left: 0;
+        height: 25rem;
+        width: 25rem;
+    }
+
+    .texto4-about {
+        height: 9rem;
+        width: 20rem;
+        left: calc(100% - 39rem);
+        top: 1rem;
+    }
+
+    .texto5-about {
+        height: 9rem;
+        width: 26.5rem;
+        left: calc(100% - 48rem);
+        top: 10.8rem;
+    }
+
+    .texto6-about {
+        height: 9rem;
+        width: 23rem;
+        left: calc(100% - 43rem);
+        top: 20.7rem;
+    }
+
+     /* ----------------------SERVICIOS-------------------- */
+
+     .fondo-servicios {
+         height: 87rem;
+     }
+
+     .texto-servicios {
+        font-size: 1.3rem;
+     }
+
+     .slide-container {
+        padding-left: 2rem;
+        padding-right: 2rem;
+     }
+
+     .card-image .card-img {
+        height: 9rem;
+     }
+
+     .card-image .card-img1 {
+        height: 8rem;
+    }
+
+     .modal-textos h3 {
+        font-size: 4rem;
+    }
+
+    .modal-textos p {
+        font-size: 1.8rem;
+    }
+
+    .content-modal{
+        width: 80%;
+    }
+
+    .button-container_reservar button{
+        font-size: 1.5rem;
+        width: 15rem;
+        height: 4rem;
+    }
+
+    /* ----------------------FOOTER-------------------- */
+
+    .pagina {
+        display: inline;
+        color: white;
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        flex-direction: column;
+        width: 23rem;
+        height: 8.5rem;
+        border: 0.15rem solid white;
+     }
+
+     .pagina a {
+        color: white;
+        font-size: 1.35rem;
+        font-weight: bold;
+     }
+
+     .pagina p {
+        margin-right: 1rem;
+        margin-left: 1rem;
+        font-size: 1.35rem;
+     }
+
+     .menu {
+         width: 9rem;
+     }
+
+     .fondo {
+         height: 10rem;
+         justify-content: center;
+         align-items: center;
+     }
+
+     .fondo span {
+         margin-top: 2rem;
+     }
+}
+
+/* ----------------------TABLET 2-------------------- */
+
+@media (min-width: 623px) and (max-width: 768px){
+
+    /* ----------------------INICIO-------------------- */
+
+    .container-imginicio {
+        height: 25rem;
+    }
+
+    .ola2-container {
+        background-image: url(../imagenes/olainicio-pc.png);
+    }
+
+    .descrip-clientes  {
+        font-size: 1.8rem;
+    }
+
+    .arena{
+        height: 55rem;
+    }
+
+    .swiper-slide span {
+        font-size: 1.3rem;
+    }
+
+    .ola1-container {
+        background-image: url(../imagenes/ola-arriba_pc.png);
+        height: 11rem;
+        top: 29rem;
+    }
+
+    /* ----------------------ABOUT US-------------------- */
+
+    .mar-about {
+        height: 68rem;
+    }
+
+    .arena-about {
+        height: 63rem;
+    }
+
+    .ola-about {
+        background-image: url(../imagenes/ola-about2.png);
+        margin-top: 70rem;
+    }
+
+    .info-tofi img {
+        top: 3rem;
+        right: 0;
+        margin-left: 0;
+        height: 25rem;
+        width: 25rem;
+    }
+
+    .texto1-about {
+        height: 9rem;
+        bottom: 0rem;
+        top: 1rem;
+        width: 24rem;
+        left: 17rem;
+    }
+
+    .texto2-about {
+        height: 8rem;
+        top: 10.7rem;
+        width: 27.5rem;
+        left: 22rem;
+    }
+
+    .texto3-about {
+        height: 8rem;
+        top: 19.8rem;
+        width: 24rem;
+        left: 19rem;
+    }
+
+    .info-barbi img {
+        top: 3rem;
+        right: 0;
+        margin-left: 0;
+        height: 25rem;
+        width: 25rem;
+    }
+
+    .texto4-about {
+        height: 8rem;
+        width: 25rem;
+        left: calc(100% - 42rem);
+        top: 1rem;
+    }
+
+    .texto5-about {
+        height: 9rem;
+        width: 26.5rem;
+        left: calc(100% - 49rem);
+        top: 10rem;
+    }
+
+    .texto6-about {
+        height: 9rem;
+        width: 25rem;
+        left: calc(100% - 44rem);
+        top: 20rem;
+    }
+
+     /* ----------------------SERVICIOS-------------------- */
+
+     .fondo-servicios {
+        height: 83rem;
+    }   
+
+    .texto-servicios {
+        font-size: 1.3rem;
+     }
+
+    .slide-container {
+        padding-left: 3rem;
+        padding-right: 3rem;
+    }
+
+    .content-modal{
+        width: 80%;
+    }
+
+    .btn-cerrar {
+        font-size: 2rem;
+    }
+
+    .card-image .card-img1 {
+        height: 9rem;
+    }
+
+    /* ----------------------CONTACTO-------------------- */
+
+    .formulario {
+        height: 80rem;
+     }
+
+     /* ----------------------FOOTER-------------------- */
+
+     .pagina {
+        display: inline;
+        color: white;
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        flex-direction: column;
+        width: 28rem;
+        height: 8.5rem;
+        border: 0.15rem solid white;
+     }
+
+     .pagina a {
+        color: white;
+        font-size: 1.35rem;
+        font-weight: bold;
+     }
+
+     .pagina p {
+        margin-right: 1rem;
+        margin-left: 1rem;
+        font-size: 1.35rem;
+     }
+
+     .menu {
+         width: 10rem;     
+    }
+
+    .fondo {
+        height: 10rem;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .fondo span {
+        margin-top: 2rem;
+    }
+
+}
+
+
+/* ----------------------COMPUTADORA 1-------------------- */
+
+
+@media (min-width: 768px) and (max-width: 1024px){
+
+
+    /*----------------------HEADER----------------------*/
+
+    .logo {
+        margin-left: 1rem;
+        width: 16rem;
+    }
+    
+    nav{
+        height: 8rem;
+    }
+    
+    .bar-btn {
+        display: none;
+    }
+    
+    .nav-menu {
+        position: relative;
+        height: 10rem;
+        top: 0;
+        background: none;
+        transition: none;
+        text-align: right;
+        margin-right: 1rem;
+    }
+    
+    .nav-menu li {
+        display: inline-block;
+        line-height: 10rem;
+        margin: 0 2rem;
+        transition: none;
+    }
+    
+    .nav-menu li a {
+        font-size: 2.5rem;
+        color: #FF997B;
+    }
+    
+    .nav-menu li.activeli {
+        text-align: center;
+        background-image: url(../imagenes/Vectorsi.svg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: contain;
+        position:relative;
+        top:0rem;
+        padding-left: 3rem;
+        padding-right: 3rem;
+    }
+    
+    
+    .nav-menu li a.active {
+        color: aliceblue;        
+    }
+
+    .nav-menu li a:hover {
+        color: #666666;
+    }
+    
+    /*---------------------- INICIO ----------------------*/
+    
+
+    .container-imginicio {
+        height: 30rem;
+    }
+
+    .ola1-container {
+        background-image: url(../imagenes/ola-arriba_pc2.png);
+        height: 20rem;
+        top: 35rem;
+    }
+    
+    .ola-container2 {
+        display: inline-block;
+        width: 100%;
+        height: 15.8rem;
+        position: absolute;
+        z-index: 2;
+        top: 85%;
+    }
+    
+    .ola-container {
+        display: none;
+    }
+
+    .ola2-container {
+        background-image: url(../imagenes/olainicio-pc.png);
+        height: 23rem;
+    }
+
+    .fondo-inicio1 {
+        flex-direction: row;
+    }
+
+    .fondo-inicio1 img {
+        margin-left: 3rem;
+        width: 40rem;
+        height: 34rem;
+    }
+
+    .texto-inicio p {
+        font-size: 1.4rem;
+    }
+    
+    .texto-inicio h2 {
+        font-size: 3.1rem;
+    }
+
+    .descrip-clientes  {
+        font-size: 1.8rem;
+    }
+
+    .arena{
+        height: 57rem;
+    }
+
+    .swiper-slide span {
+        font-size: 1.1rem;
+    }
+
+    .arena h3 {
+        margin-top: 17rem;
+        font-size: 6.5rem;
+    }
+
+    .subrayado {
+        width: 30rem;
+        min-height: 2%;
+    }
+
+
+    .estrella {
+        display: inline-block;
+        position: relative;
+        bottom: 37rem;
+        right: 25rem;
+    }
+
+    .estrella img {
+        height: 11rem;
+        width: 12rem;
+    }
+
+    .mapas {
+        display: inline-block;
+        position: relative;
+        bottom: 47rem;
+        left: 25rem;
+    }
+
+    .mapas img {
+        height: 10rem;
+        width: 11rem;
+    }
+
+    /*---------------------- ABOUT ----------------------*/
+    
+    .main-header_about {
+        height: 19rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .main-header_about h1 {
+        font-size: 7rem;
+    }
+    
+    .main-header_about span {
+        font-size: 7rem;
+        padding-bottom: 0.5rem;
+    }
+    
+    .ola-about {
+        background-image: url(../imagenes/ola-about2.png);
+        height: 40rem;
+        margin-top: 63rem;
+    }
+
+    .arena-about {
+        flex-direction: row-reverse;
+        height: 50rem;
+    }
+
+    .arena-about img {
+        margin-right: 3rem;
+        height: 35rem;
+        width: 35rem;
+    }
+
+    .texto-about_nosotras h2 {
+        font-size: 4rem;
+    }
+
+    .texto-about_nosotras p {
+        font-size: 1.5rem;
+    }
+
+    .mar-about {
+        height: 90rem;
+    }
+
+    .info-tofi {
+        height: 40rem;
+    }
+        
+    .info-tofi img {
+        top: 3rem;
+        right: 0;
+        margin-left: 3rem;
+        height: 35rem;
+        width: 35rem;
+    }
+
+    .texto-about {
+        font-size: 1.7rem;
+    }
+
+    .texto1-about {
+        height: 11rem;
+        bottom: 0rem;
+        top: 1rem;
+        width: 40rem;
+        left: 26rem;
+    }
+
+    .texto2-about {
+        height: 12rem;
+        top: 13rem;
+        width: 40rem;
+        left: 32rem;
+    }
+
+    .texto3-about {
+        height: 11.5rem;
+        top: 26.5rem;
+        width: 36rem;
+        left: 30rem;
+    }
+
+    .info-barbi img {
+        top: 6rem;
+        right: 0;
+        margin-left: 0;
+        margin-right: 3rem;
+        height: 35rem;
+        width: 35rem;
+    }
+
+    .texto4-about {
+        height: 11rem;
+        width: 35rem;
+        left: calc(100% - 62rem);
+        top: 3rem;
+    }
+
+    .texto5-about {
+        height: 13rem;
+        width: 40rem;
+        left: calc(100% - 74rem);
+        top: 15.5rem;
+    }
+
+    .texto6-about {
+        height: 11.5rem;
+        width: 35rem;
+        left: calc(100% - 66rem);
+        top: 30rem;
+    }
+    /*---------------------- SERVICIOS ----------------------*/
+    
+    .main-header_servicios {
+        height: 19rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .main-header_servicios h1 {
+        font-size: 7rem;
+    }
+    
+    .main-header_servicios span {
+        font-size: 7rem;
+    }
+    
+    .texto-servicios {
+        font-size: 1.7rem;
+    }
+
+    .fondo-servicios {
+        height: 90rem;
+    }
+    
+    .slide-container {
+        padding-left: 5rem;
+        padding-right: 5rem;
+    }
+
+    .card-image .card-img {
+        height: 9rem;
+    }
+
+    .card-image .card-img1 {
+        height: 8rem;
+    }
+
+    .content-modal{
+        width: 80%;
+    }
+
+    .btn-cerrar {
+        font-size: 2rem;
+    }
+
+
+    /*---------------------- CONTACTO ----------------------*/
+    
+    .brno {display: none;}
+    
+    
+    form {
+        text-align: left;
+        margin-top: 1.5rem;
+        margin-left: 15rem;
+        margin-right: 15rem;
+    }
+    
+    .formulario {
+        width: 80%;
+        height: 85rem;
+    }
+    
+    .main-header_contacto {
+        background-image: url(../imagenes/Rectangle\ 28.png);
+        height: 19rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .main-header_contacto h1 {
+        font-size: 7rem;
+    }
+    
+    .fondo-contacto {
+        background-image: url(../imagenes/fondoform.png);
+    }
+    
+    
+    .enviar {
+        margin-top: 3rem;
+        font-size: 2.2rem;
+        width: 15rem;
+        cursor: pointer;
+    }
+    
+    .enviar:hover {
+        background-color: #2E9C9D;
+        border-color: #2E9C9D;
+        color: white;
+        box-shadow: 0px -1px 23px 9px rgba(255,255,255,1);
+    }
+    
+    /*------------------------- FOOTER -------------------------*/
+    
+    .redes {
+        height: 13rem;
+        width: 40%;
+    }
+    
+    .redes h5 {
+        font-size: 1.4rem;
+    }
+    
+    .red-social a {
+        display: inline-block;
+        text-decoration: none;
+        font-size: 2.3rem;
+        line-height: 4.5rem;
+        color: white;
+        margin-right: 1rem;
+        text-align: center;
+        width: 2rem
+    }
+    
+    
+    .menu {
+        height: 13rem;
+        width: 30%;
+    }
+    
+    .fondo {
+        height: 15rem;
+        flex-direction: column;
+        border-right: 0.1rem dashed white;
+        border-top: none;
+        justify-content: center;
+        align-items: flex-start;
+    }
+    
+    .fondo img {
+        width: 17.5rem;
+        height: 6rem;
+        margin-top: 0;
+        margin-bottom: 0.9rem;
+    }
+    
+    .fondo span {
+        font-size: 1.3rem;
+        margin-top: 0.9rem; 
+        margin-left: 2rem;   
+    }
+    
+    footer {
+        display: flex;
+        flex-direction: row-reverse;
+    }
+
+    .brno {
+        display: inline-block;
+    }
+}
+
+
+/* ----------------------COMPUTADORA 2-------------------- */
+
+@media (min-width: 1024px) and (max-width: 1300px) {
+   
+    /*----------------------HEADER----------------------*/
+
+    .logo {
+        margin-left: 1rem;
+        width: 16rem;
+    }
+
+    nav{
+        height: 8rem;
+    }
+
+    .bar-btn {
+        display: none;
+    }
+
+    .nav-menu {
+        position: relative;
+        height: 10rem;
+        top: 0;
+        background: none;
+        transition: none;
+        text-align: right;
+        margin-right: 1rem;
+    }
+
+    .nav-menu li {
+        display: inline-block;
+        line-height: 10rem;
+        margin: 0 2rem;
+        transition: none;
+    }
+
+    .nav-menu li a {
+        font-size: 2.5rem;
+        color: #FF997B;
+    }
+
+    .nav-menu li.activeli {
+        text-align: center;
+        background-image: url(../imagenes/Vectorsi.svg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: contain;
+        position:relative;
+        top:0rem;
+        padding-left: 3rem;
+        padding-right: 3rem;
+    }
+
+
+    .nav-menu li a.active {
+        color: aliceblue;        
+    }
+
+    .nav-menu li a:hover {
+        color: #666666;
+    }
+    /*---------------------- INICIO ----------------------*/
+
+    .container-imginicio {
+        height: 40rem;
+    }
+
+    .ola1-container {
+        background-image: url(../imagenes/ola-arriba_pc2.png);
+        height: 40rem;
+        top: 43.2rem;
+    }
+    
+
+    .pagination-item {
+        width: 2rem;
+        height: 2rem;
+        margin-bottom: 0;
+        border: 0.2rem solid white;
+    }
+
+    .ola-container2 {
+        display: inline-block;
+        width: 100%;
+        height: 15.8rem;
+        position: absolute;
+        z-index: 2;
+        top: 85%;
+    }
+
+    .ola2-container {
+        background-image: url(../imagenes/olainicio-pc.png);
+        height: 40rem;
+        margin-top: 110rem;
+    }
+
+    .texto-inicio {
+        padding-left: 5rem;
+        padding-right: 3rem;
+    }
+
+    .ola-container {
+        display: none;
+    }
+
+    .fondo-inicio1 {
+        flex-direction: row;
+        padding-right: 7rem;
+        padding-left: 7rem;
+        margin-top: 5rem;
+        height: 70rem;
+    }
+
+    .fondo-inicio1 img {
+        margin-left: 3rem;
+        width: 50rem;
+        height: 42rem;
+        margin-top: 2rem;
+    }
+
+    .swiper-slide span {
+        font-size: 1.2rem;
+    }
+
+    .texto-inicio p {
+        font-size: 1.9rem;
+    }
+    
+    .texto-inicio h2 {
+        font-size: 3.5rem;
+    }
+
+    .arena h3 {
+        margin-top: 37rem;
+        font-size: 8rem;
+    }
+
+    .subrayado {
+        width: 36rem;
+        min-height: 2%;
+    }
+
+    .arena {
+        height: 83rem;
+    }
+
+    .descrip-clientes  {
+        margin-top: 4rem;
+        margin-bottom: 4rem;
+        font-size: 1.8rem;
+    }
+
+    .estrella {
+        display: inline-block;
+        position: relative;
+        bottom: 39rem;
+        right: 35rem;
+    }
+
+    .estrella img {
+        height: 11rem;
+        width: 12rem;
+    }
+
+    .mapas {
+        display: inline-block;
+        position: relative;
+        bottom: 50rem;
+        left: 35rem;
+    }
+
+    .mapas img {
+        height: 10rem;
+        width: 11rem;
+    }
+
+    /*---------------------- ABOUT ----------------------*/
+
+    .main-header_about {
+        height: 19rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .main-header_about h1 {
+        font-size: 7rem;
+    }
+
+    .main-header_about span {
+        font-size: 7rem;
+        padding-bottom: 0.5rem;
+    }
+
+    .ola-about {
+        background-image: url(../imagenes/ola-about2.png);
+        height: 40rem;
+        margin-top: 63rem;
+    }
+
+    .arena-about {
+        flex-direction: row-reverse;
+        height: 50rem;
+    }
+
+    .arena-about img {
+        margin-right: 3rem;
+        height: 35rem;
+        width: 35rem;
+    }
+
+    .texto-about_nosotras h2 {
+        font-size: 5rem;
+    }
+
+    .texto-about_nosotras p {
+        font-size: 2rem;
+    }
+
+    .mar-about {
+        height: 90rem;
+    }
+
+    .info-tofi {
+        height: 40rem;
+    }
+        
+    .info-tofi img {
+        top: 5rem;
+        right: 0;
+        margin-left: 3rem;
+        height: 35rem;
+        width: 35rem;
+    }
+
+    .texto-about {
+        font-size: 1.7rem;
+    }
+
+    .texto1-about {
+        height: 11rem;
+        bottom: 0rem;
+        top: 1rem;
+        width: 40rem;
+        left: 26rem;
+    }
+
+    .texto2-about {
+        height: 12rem;
+        top: 13rem;
+        width: 40rem;
+        left: 32rem;
+    }
+
+    .texto3-about {
+        height: 11.5rem;
+        top: 26.5rem;
+        width: 36rem;
+        left: 30rem;
+    }
+
+    .texto4-about {
+        height: 11rem;
+        width: 35rem;
+        left: calc(100% - 62rem);
+        top: 3rem;
+    }
+
+    .texto5-about {
+        height: 13rem;
+        width: 40rem;
+        left: calc(100% - 74rem);
+        top: 15.5rem;
+    }
+
+    .texto6-about {
+        height: 11.5rem;
+        width: 35rem;
+        left: calc(100% - 66rem);
+        top: 30rem;
+    }
+
+    .info-barbi img {
+        top: 5rem;
+        right: 0;
+        margin-left: 0;
+        margin-right: 3rem;
+        height: 35rem;
+        width: 35rem;
+    }
+
+ 
+    /*---------------------- SERVICIOS ----------------------*/
+
+    .main-header_servicios {
+        height: 19rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .main-header_servicios h1 {
+        font-size: 7rem;
+    }
+
+    .main-header_servicios span {
+        font-size: 7rem;
+    }
+
+    .texto-servicios {
+        font-size: 1.7rem;
+    }
+
+    .fondo-servicios {
+        height: 89rem;
+    }
+
+    .card-image .card-img1 {
+        height: 9rem;
+    }
+    /*---------------------- CONTACTO ----------------------*/
+
+    .brno {display: none;}
+
+
+    form {
+        text-align: left;
+        margin-top: 1.5rem;
+        margin-left: 15rem;
+        margin-right: 15rem;
+    }
+
+    .formulario {
+        width: 80%;
+        height: 82rem;
+    }
+
+    .main-header_contacto {
+        background-image: url(../imagenes/Rectangle\ 28.png);
+        height: 19rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .main-header_contacto h1 {
+        font-size: 7rem;
+    }
+
+    .fondo-contacto {
+        background-image: url(../imagenes/fondoform.png);
+    }
+
+    .fondo span {
+        font-size: 3rem;
+    }
+
+
+    .enviar {
+        margin-top: 3rem;
+        font-size: 2.2rem;
+        width: 15rem;
+        cursor: pointer;
+    }
+
+    .enviar:hover {
+        background-color: #2E9C9D;
+        border-color: #2E9C9D;
+        color: white;
+        box-shadow: 0px -1px 23px 9px rgba(255,255,255,1);
+    }
+
+    ::placeholder {
+        font-size: 1.4rem;
+    }
+
+
+    /*------------------------- FOOTER -------------------------*/
+
+    .redes {
+        height: 13rem;
+        margin-right: 1rem;
+    }
+
+    .redes h5 {
+        font-size: 1.4rem;
+    }
+
+    .red-social a {
+        display: inline-block;
+        text-decoration: none;
+        font-size: 2.3rem;
+        line-height: 4.5rem;
+        color: white;
+        margin-right: 1rem;
+        text-align: center;
+        width: 2rem
+    }
+
+
+    .menu {
+        height: 13rem;
+    }
+
+    .fondo {
+        height: 15rem;
+        flex-direction: column;
+        border-right: 0.1rem solid white;
+        border-top: none;
+    }
+
+    .fondo img {
+        margin-left: 2rem;
+        width: 17.5rem;
+        height: 6rem;
+        margin-top: 3rem;
+    }
+
+    .fondo span {
+        margin-left: 3rem;
+        font-size: 1.3rem;
+    }
+
+    footer {
+        display: flex;
+        flex-direction: row-reverse;
+    }
+
+    .pagina {
+        display: inline;
+        color: white;
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        flex-direction: column;
+        width: 30.8rem;
+        height: 8.5rem;
+        border: 0.15rem solid white;
+        margin-left: 2rem;
+    }
+
+    .pagina a {
+        color: white;
+        font-size: 1.35rem;
+        font-weight: bold;
+    }
+
+    .pagina p {
+        margin-right: 1rem;
+        margin-left: 1rem;
+        font-size: 1.35rem;
+    }
+    
+
+}
+
+@media (min-width: 1300px) {
+   
+    /*----------------------HEADER----------------------*/
+
+    .logo {
+        margin-left: 1rem;
+        width: 16rem;
+    }
+
+    nav{
+        height: 8rem;
+    }
+
+    .bar-btn {
+        display: none;
+    }
+
+    .nav-menu {
+        position: relative;
+        height: 10rem;
+        top: 0;
+        background: none;
+        transition: none;
+        text-align: right;
+        margin-right: 1rem;
+    }
+
+    .nav-menu li {
+        display: inline-block;
+        line-height: 10rem;
+        margin: 0 2rem;
+        transition: none;
+    }
+
+    .nav-menu li a {
+        font-size: 2.5rem;
+        color: #FF997B;
+    }
+
+    .nav-menu li.activeli {
+        text-align: center;
+        background-image: url(../imagenes/Vectorsi.svg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: contain;
+        position:relative;
+        top:0rem;
+        padding-left: 3rem;
+        padding-right: 3rem;
+    }
+
+
+    .nav-menu li a.active {
+        color: aliceblue;        
+    }
+
+    .nav-menu li a:hover {
+        color: #666666;
+    }
+    /*---------------------- INICIO ----------------------*/
+
+    .container-imginicio {
+        height: 40rem;
+        
+    }
+
+    .ola1-container {
+        background-image: url(../imagenes/ola-arriba_pc2.png);
+        height: 40rem;
+        top: 53.1rem;
+    }
+    
+
+    .pagination-item {
+        width: 2rem;
+        height: 2rem;
+        margin-bottom: 0;
+        border: 0.2rem solid white;
+    }
+
+    .ola-container2 {
+        display: inline-block;
+        width: 100%;
+        height: 15.8rem;
+        position: absolute;
+        z-index: 2;
+        top: 85%;
+    }
+
+    .ola2-container {
+        background-image: url(../imagenes/olainicio-pc.png);
+        height: 40rem;
+        margin-top: 97.5rem;
+    }
+
+    .texto-inicio {
+        padding-left: 5rem;
+        padding-right: 3rem;
+    }
+
+    .ola-container {
+        display: none;
+    }
+
+    .fondo-inicio1 {
+        flex-direction: row;
+        padding-right: 7rem;
+        padding-left: 7rem;
+        margin-top: 20rem;
+    }
+
+    .fondo-inicio1 img {
+        margin-left: 3rem;
+        width: 50rem;
+        height: 42rem;
+        margin-top: 2rem;
+    }
+
+    .texto-inicio p {
+        font-size: 1.9rem;
+    }
+    
+    .texto-inicio h2 {
+        font-size: 3.5rem;
+    }
+
+    .descrip-clientes{
+        font-size: 2rem;
+        margin-top: 4rem;
+        margin-bottom: 4rem;
+    }
+
+    .swiper-slide span {
+        font-size: 1.4rem;
+    }
+
+    .arena h3 {
+        margin-top: 37rem;
+        font-size: 8rem;
+    }
+
+    .subrayado {
+        width: 36rem;
+        min-height: 2%;
+    }
+
+    .arena {
+        height: 83rem;
+    }
+
+    .estrella {
+        display: inline-block;
+        position: relative;
+        bottom: 40rem;
+        right: 35rem;
+    }
+
+    .estrella img {
+        height: 11rem;
+        width: 12rem;
+    }
+
+    .mapas {
+        display: inline-block;
+        position: relative;
+        bottom: 50rem;
+        left: 35rem;
+    }
+
+    .mapas img {
+        height: 10rem;
+        width: 11rem;
+    }
+
+    /*---------------------- ABOUT ----------------------*/
+
+    .main-header_about {
+        height: 19rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .main-header_about h1 {
+        font-size: 7rem;
+    }
+
+    .main-header_about span {
+        font-size: 7rem;
+        padding-bottom: 0.5rem;
+    }
+
+    .ola-about {
+        background-image: url(../imagenes/ola-about2.png);
+        height: 50rem;
+        margin-top: 69rem;
+    }
+
+    .arena-about {
+        flex-direction: row-reverse;
+        height: 52rem;
+    }
+
+    .arena-about img {
+        margin-right: 3rem;
+        height: 45rem;
+        width: 45rem;
+        margin-top: 5rem;
+    }
+
+    .texto-about_nosotras h2 {
+        font-size: 6rem;
+    }
+
+    .texto-about_nosotras p {
+        font-size: 2rem;
+    }
+
+    .mar-about {
+        height: 110rem;
+    }
+
+    .info-tofi {
+        height: 50rem;
+    }
+
+    .info-barbi {
+        height: 50rem;
+    }
+        
+    .info-tofi img {
+        top: 2rem;
+        right: 0;
+        margin-left: 3rem;
+        height: 45rem;
+        width: 45rem;
+    }
+
+    .texto-about {
+        font-size: 1.7rem;
+    }
+
+    .texto1-about {
+        height: 11rem;
+        bottom: 0rem;
+        top: 1rem;
+        width: 40rem;
+        left: 32rem;
+    }
+
+    .texto2-about {
+        height: 12rem;
+        top: 16.5rem;
+        width: 40rem;
+        left: 40rem;
+    }
+
+    .texto3-about {
+        height: 11.5rem;
+        top: 32.5rem;
+        width: 36rem;
+        left: 37rem;
+    }
+
+    .texto4-about {
+        height: 11rem;
+        width: 35rem;
+        left: calc(100% - 69rem);
+        top: 3rem;
+    }
+
+    .texto5-about {
+        height: 13rem;
+        width: 40rem;
+        left: calc(100% - 84rem);
+        top: 17.9rem;
+    }
+
+    .texto6-about {
+        height: 11.5rem;
+        width: 35rem;
+        left: calc(100% - 75rem);
+        top: 35rem;
+    }
+
+    .info-barbi img {
+        top: 3rem;
+        right: 0;
+        margin-left: 0;
+        margin-right: 3rem;
+        height: 45rem;
+        width: 45rem;
+    }
+
+
+    /*---------------------- SERVICIOS ----------------------*/
+
+    .main-header_servicios {
+        height: 19rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .main-header_servicios h1 {
+        font-size: 7rem;
+    }
+
+    .main-header_servicios span {
+        font-size: 7rem;
+    }
+
+    .texto-servicios {
+        font-size: 1.7rem;
+    }
+
+    .button-container_contactanos {
+        margin-top: 2rem;
+    }
+
+    .fondo-servicios {
+        height: 82rem;
+    }
+
+    .card-image .card-img1{
+        height: 9rem;
+    }
+
+    /*---------------------- CONTACTO ----------------------*/
+
+    .brno {display: none;}
+
+
+    form {
+        text-align: left;
+        margin-top: 1.5rem;
+        margin-left: 15rem;
+        margin-right: 15rem;
+    }
+
+    .formulario {
+        width: 80%;
+        height: 82rem;
+    }
+
+    .main-header_contacto {
+        background-image: url(../imagenes/Rectangle\ 28.png);
+        height: 19rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .main-header_contacto h1 {
+        font-size: 7rem;
+    }
+
+    .fondo-contacto {
+        background-image: url(../imagenes/fondoform.png);
+    }
+
+    .fondo span {
+        font-size: 3rem;
+    }
+
+    .enviar {
+        margin-top: 3rem;
+        font-size: 2.2rem;
+        width: 15rem;
+        cursor: pointer;
+    }
+
+    .enviar:hover {
+        background-color: #2E9C9D;
+        border-color: #2E9C9D;
+        color: white;
+        box-shadow: 0px -1px 23px 9px rgba(255,255,255,1);
+        transition: all 0.3s ease;
+    }
+
+    ::placeholder {
+        font-size: 1.4rem;
+    }
+
+
+    /*------------------------- FOOTER -------------------------*/
+
+    .redes {
+        height: 13rem;
+        margin-right: 1rem;
+    }
+
+    .redes h5 {
+        font-size: 1.4rem;
+    }
+
+    .red-social a {
+        display: inline-block;
+        text-decoration: none;
+        font-size: 2.3rem;
+        line-height: 4.5rem;
+        color: white;
+        margin-right: 1rem;
+        text-align: center;
+        width: 2rem
+    }
+
+
+    .menu {
+        height: 13rem;
+    }
+
+    .fondo {
+        height: 15rem;
+        flex-direction: column;
+        border-right: 0.1rem solid white;
+        border-top: none;
+    }
+
+    .fondo img {
+        margin-left: 2rem;
+        width: 17.5rem;
+        height: 6rem;
+        margin-top: 3rem;
+    }
+
+    .fondo span {
+        margin-left: 3rem;
+        font-size: 1.3rem;
+    }
+
+    footer {
+        display: flex;
+        flex-direction: row-reverse;
+    }
+
+    .pagina {
+        display: inline;
+        color: white;
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        flex-direction: column;
+        width: 30.8rem;
+        height: 8.5rem;
+        border: 0.15rem solid white;
+        margin-left: 2rem;
+    }
+
+    .pagina a {
+        color: white;
+        font-size: 1.35rem;
+        font-weight: bold;
+    }
+
+    .pagina p {
+        margin-right: 1rem;
+        margin-left: 1rem;
+        font-size: 1.35rem;
+    }
+    
+
+}
